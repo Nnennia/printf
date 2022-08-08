@@ -1,4 +1,4 @@
 # printf project
-Authors: Adaeze
+Authors: Adaeze Atuanya Nnennia Atuanya
 
 
